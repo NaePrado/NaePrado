@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Ana Prado | Hi, I'm Ana Prado
 
-<!--
-**NaePrado/NaePrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Systems Analysis and Development student  
 
-Here are some ideas to get you started:
+💻 Em formação na área de tecnologia  
+💻 Currently building my skills in technology  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Buscando estágio ou posição júnior  
+🚀 Looking for an internship or junior position  
+
+## 🧠 Sobre mim | About me
+
+Apaixonada por tecnologia, estou em constante aprendizado através de projetos práticos e estudos.  
+Passionate about technology, always learning through hands-on projects and continuous study.
+
+## 🚀 Tecnologias | Technologies
+
+- Python  
+- Java  
+- SQL  
+  
+## 📌 Projetos | Projects
+
+- 📱 App de turismo local (Hype)  
+- 💻 Projetos acadêmicos e práticos  
+
+
+## 📫 Contato | Contact
+
+- 💼 LinkedIn: www.linkedin.com/in/ana-paula-vieira-do-prado-816151a1
+- E-mail: naeprado@gmail.com
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaePrado/NaePrado/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaePrado/NaePrado/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaePrado/NaePrado/output/pacman-contribution-graph.svg">
+</picture>
+
+###
