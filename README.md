@@ -19,6 +19,12 @@ Passionate about technology, always learning through hands-on projects and conti
 - Python  
 - Java  
 - SQL  
+- Git & GitHub  
+- Visual Studio Code  
+
+## ☁️ Em aprendizado | Currently Learning
+
+- Google Cloud (Associate Cloud Engineer)
   
 ## 📌 Projetos | Projects
 
